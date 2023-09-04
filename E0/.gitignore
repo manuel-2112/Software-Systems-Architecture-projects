@@ -3,7 +3,6 @@
 .idea
 logs
 *.log
-*.env
 
 __pycache__/
 /src/app/__pycache__/
